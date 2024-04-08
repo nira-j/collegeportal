@@ -1,0 +1,15 @@
+#profileimg{
+    height: 150px;
+    width: 140px;
+    border: 2px solid black;
+    margin-left: 60px;
+    margin-top: 40px;
+
+}
+
+#signatureimg{
+    width: 150px;
+    border: 2px solid black;
+    margin-left: 170px;
+    margin-top: 20px
+}
